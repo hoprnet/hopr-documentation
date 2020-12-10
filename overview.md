@@ -2,6 +2,10 @@
 description: A general introduction to the HOPR ecosystem.
 ---
 
+{% hint style="danger" %}
+We're currently updating our documentation to reflect major changes in our software since our last public release. We expect this will take a few days.
+{% endhint %}
+
 # Overview
 
 The HOPR ecosystem is a two-platform network with dynamic components powering its communication and incentivization mechanisms. 
