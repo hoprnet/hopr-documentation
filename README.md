@@ -1,3 +1,5 @@
+**DEPRECATION WARNING:** This repository has been deprecated. The HOPR documentation can now be found within the [hoprnet monorepo](https://github.com/hoprnet/hoprnet/tree/master/docs/hopr-documentation).
+
 ---
 description: Changing Data Privacy For Good.
 ---
