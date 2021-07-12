@@ -123,7 +123,7 @@ Download the latest version of **HOPR Chat** by clicking in the following link.
 {% endtabs %}
 
 {% hint style="info" %}
-You can see all our releases in our GitHub [releases](https://github.com/hoprnet/hopr-core/releases) page.
+You can see all our releases in our GitHub [releases](https://github.com/hoprnet/hopr-chat/releases) page.
 {% endhint %}
 
 ### Extracting HOPR Chat
